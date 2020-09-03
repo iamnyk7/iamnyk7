@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Blood4ALL**
 
-- 🌱 I’m currently learning **Machine learning by Andrew ng**
+- 🌱 I’m currently doing **Machine learning by Andrew ng** course
 
 - 💬 Ask me about **Php**
 
